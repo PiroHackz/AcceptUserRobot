@@ -1,9 +1,4 @@
-
-<p align="">
-  <a href="https://telegram.me/PiroHackz/16">
-    <img src="https://i.ibb.co/HtQHrkh/image.png">
-  </a>
-</p>
+![image](https://github.com/user-attachments/assets/bb32ebb0-390b-45b1-aa2f-8ae92b37105a)
 
 
 Telegram Bot to Auto Accept New User + Approve All Join Requests.
@@ -11,7 +6,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 
 ### Features
-- 👍 Presenting New AcceptUserRobot
+**- 👍 Presenting New AcceptUserRobot
 
 - What makes it unique ❔
 - ✅Auto Approve New Users
@@ -23,7 +18,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 - 😍 Username: @AcceptUserRobot
 
-- ✅ Powered by PiroHackz™ (https://t.me/PiroHackz/16)
+- ✅ Powered by PiroHackz™** (https://t.me/PiroHackz/16)
 
 
 
