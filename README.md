@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="">
   <a href="https://telegram.me/PiroHackz/16">
     <img src="https://i.ibb.co/HtQHrkh/image.png">
   </a>
