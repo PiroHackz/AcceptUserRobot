@@ -1,1 +1,1 @@
-Developer @im_piro | Contact to buy repo 
+Download Repo [ClickHere](https://link.vipurl.in/sourcecode)
