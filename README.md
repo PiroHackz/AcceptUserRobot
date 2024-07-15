@@ -6,7 +6,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 
 ### Features
-**- 👍 Presenting New AcceptUserRobot
+- 👍 Presenting New AcceptUserRobot
 
 - What makes it unique ❔
 - ✅Auto Approve New Users
@@ -18,7 +18,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 - 😍 Username: @AcceptUserRobot
 
-- ✅ Powered by PiroHackz™** (https://t.me/PiroHackz/16)
+- ✅ Powered by PiroHackz™ (https://t.me/PiroHackz/16)
 
 
 
