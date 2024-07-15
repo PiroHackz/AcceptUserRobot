@@ -33,7 +33,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ```
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/The_Heling_Club) For Support/Assistance And Our [Channel](https://www.telegram.dog/PiroBots) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/The_Helping_Club) For Support/Assistance And Our [Channel](https://www.telegram.dog/PiroBots) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
