@@ -14,7 +14,8 @@ I Guess This Will Be Usefull For Many People.....😇.
 - ✅Welcome New User in Groups
 - ✅Welcome Message After Approved
 
-- Many bots provide paid subscriptions to approve all pending join requests but we have launched this bot which can help you to approve all pending requests for ✅
+- Many bots provide paid subscriptions to approve all pending join requests but
+  we have launched this bot which can help you to approve all pending requests for ✅
 
 - 😍 Username: @AcceptUserRobot
 
